@@ -62,7 +62,7 @@
 
 // function StoreValueToLocalStorage (userkey,data){
 //      let datastringify=JSON.stringify(data)
-//     localStorage.setItem(userkey,datastringify)
+//     localStorage.setItem(userkey,datastringify);
 // }
 
 // let student1 ={
